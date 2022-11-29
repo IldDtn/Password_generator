@@ -158,7 +158,7 @@ var arr4 = [
   console.log(randominputspecial);
   
   // I will end up with array from which below function will pull
-  //create an array that includes chosen options // if concat does not guarantee it will pick one from each
+  //create an array that includes chosen options 
   
   //function getRandom(list1, list2, list3, list4) {
   
